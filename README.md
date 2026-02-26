@@ -2,7 +2,7 @@
 
 <h1 align="center">Merhaba, Ben Yusuf Harun Canbay! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Yazılım+Mühendisliği+Öğrencisi;DevOps+Meraklısı;Action-RPG+Gamer+%26+Teknoloji+Tutkunu" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;DevOps+Merakl%C4%B1s%C4%B1;Action-RPG+Gamer+%26+Teknoloji+Tutkunu" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   Kodlama ve video oyunlarıyla vakit geçiren, İnönü Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. Sürekli yeni teknolojiler öğrenmeye ve kaliteli projeler üretmeye odaklanıyorum.
@@ -24,10 +24,10 @@
 
 <p align="center">
   <a href="https://github.com/yhcanbay/PVC_Profesyonel_Cizim_ve_Fiyatlandirma_Uygulamasi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yhcanbay&repo=PVC_Profesyonel_Cizim_ve_Fiyatlandirma_Uygulamasi&theme=radium" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yhcanbay&repo=PVC_Profesyonel_Cizim_ve_Fiyatlandirma_Uygulamasi&theme=tokyonight" />
   </a>
   <a href="https://github.com/yhcanbay/Etkilesimli_Sozluk_Uygulamasi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yhcanbay&repo=Etkilesimli_Sozluk_Uygulamasi&theme=radium" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yhcanbay&repo=Etkilesimli_Sozluk_Uygulamasi&theme=tokyonight" />
   </a>
 </p>
 
@@ -59,11 +59,11 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhcanbay&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhcanbay&layout=compact&theme=radium"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhcanbay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhcanbay&layout=compact&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhcanbay&theme=radium" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yhcanbay&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---

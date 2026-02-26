@@ -24,8 +24,8 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-[![PVC Profesyonel Çizim](https://github-readme-stats.vercel.app/api/pin/?username=yhcanbay&repo=PVC_Profesyonel_Cizim_ve_Fiyatlandirma_Uygulamasi&theme=tokyonight)](https://github.com/yhcanbay/PVC_Profesyonel_Cizim_ve_Fiyatlandirma_Uygulamasi)
-[![Etkileşimli Sözlük](https://github-readme-stats.vercel.app/api/pin/?username=yhcanbay&repo=Etkilesimli_Sozluk_Uygulamasi&theme=tokyonight)](https://github.com/yhcanbay/Etkilesimli_Sozluk_Uygulamasi)
+[![PVC Profesyonel Çizim](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yhcanbay&repo=PVC_Profesyonel_Cizim_ve_Fiyatlandirma_Uygulamasi&theme=tokyonight)](https://github.com/yhcanbay/PVC_Profesyonel_Cizim_ve_Fiyatlandirma_Uygulamasi)
+[![Etkileşimli Sözlük](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yhcanbay&repo=Etkilesimli_Sozluk_Uygulamasi&theme=tokyonight)](https://github.com/yhcanbay/Etkilesimli_Sozluk_Uygulamasi)
 
 ---
 
@@ -55,8 +55,8 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhcanbay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhcanbay&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yhcanbay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yhcanbay&layout=compact&theme=tokyonight"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yhcanbay&theme=tokyonight" alt="GitHub Streak" />

@@ -13,10 +13,9 @@
 ---
 
 ### 👨‍💻 Hakkımda Kısaca
-- 🔭 Şu sıralar **React ve Spring Boot** mimarisiyle kapsamlı bir *PVC Çizim ve Fiyatlandırma Uygulaması* geliştiriyorum.
+- 🔭 Şu sıralar **Unity Oyun Motoru** ile oyun geliştirme öğreniyorum.
 - 🌱 Aktif olarak **DevOps** süreçleri üzerine çalışıyorum.
 - 🖥️ Geliştirme ortamım: Masaüstü kasamda **Linux**, laptopumda ise **Windows** kullanıyorum.
-- 🛠️ Eski bir bilgisayarı yapılandırarak kişisel projelerim için bir **Home Server (Ev Sunucusu)** kurma projesiyle uğraşıyorum.
 - 🌍 İngilizce seviyemi (B1) teknik dokümantasyonlar ve pratiklerle geliştirmeye devam ediyorum.
 - ⚡ **Eğlence:** Kodlama seanslarından sonra **Elder Scrolls** veya **Elden Ring** gibi Action-RPG oyunlar oynamayı seviyorum!
 
